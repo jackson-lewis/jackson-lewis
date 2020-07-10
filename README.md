@@ -1,5 +1,7 @@
 ### Hey! 👋
 
+I'll think of something to write here sooner or later...
+
 <!--
 **jackson-lewis/jackson-lewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
