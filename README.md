@@ -4,7 +4,7 @@ I'm leading company-wide change by creating solutions for problems ranging from 
 
 I've pushed modern technologies such as a Next.js frontend with a GraphQL connection to a WordPress backend. Today, this architecture caters for our largest account, a collection of ~50 care homes, where scalability is a key factor for success.
 
-I've developed a Web SDK in-house during my time at boxChilli, which has become an integral part of day-to-day operations. The biggest achievement of the SDK by far is the commitment to positive change in an era of automation and future-proofing, with plans to explore AI integration.
+I've developed a Web SDK in-house during my time at boxChilli, which has become an integral part of day-to-day operations. The biggest achievement of the SDK by far is the commitment to impactful change in an era of automation and forward-thinking, with plans to explore AI integration.
 
 Away from the screens, I’m an avid car guy who is always happy to be the designated driver. You’ll regularly find me outdoors exploring, having climbed Snowdon and Scafell Pike in 2022.
 <!--
