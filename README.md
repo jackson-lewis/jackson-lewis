@@ -1,10 +1,12 @@
-A seasoned full-stack developer predominately in the WordPress space, with over 5 years commercial experience in the digital marketing industry.
+A seasoned full-stack developer with over 6 years commercial experience in the digital marketing industry, looking to transition into Software Engineering.
 
 I'm leading company-wide change by creating solutions for problems ranging from simple to complex requirements. These include implementing automated development workflows, optimising marketing teams efficiency and saving costs by adopting long-term strategies.
 
-I've pushed modern technologies such as a Next.js frontend with a GraphQL connection to a WordPress backend. Today, this architecture caters for our largest account, a collection of ~50 care homes, where scalability is a key factor for success.
+I'm currently working on expanding my skills in TypeScript, Node.js, React, Next.js and AWS. I'm also experimenting with the likes of PostgreSQL, RabbitMQ and microservice architectures utilising Docker.
 
-I've developed a Web SDK in-house during my time at boxChilli, which has become an integral part of day-to-day operations. The biggest achievement of the SDK by far is the commitment to impactful change in an era of automation and forward-thinking, with plans to explore AI integration.
+I've developed websites using modern technologies such as a Next.js applications with a GraphQL connection to platforms like WordPress and Magento 2.
+
+I've also designed a Web SDK in-house during my time at boxChilli, which has become an integral part of day-to-day operations. The biggest achievement of the SDK by far is the commitment to impactful change in an era of automation and forward-thinking, with plans to explore AI integration.
 
 Away from the screens, I’m an avid car guy who is always happy to be the designated driver. You’ll regularly find me outdoors exploring, having climbed Snowdon and Scafell Pike in 2022.
 <!--
