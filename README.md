@@ -1,6 +1,4 @@
-A Frontend Software Engineer for the RAC in the SMR (Service, Maintenance & Repair) domain.
-
-Expertise in TypeScript, Next.js & Node. Specialising in performance optimisation.
+A Frontend Software Engineer at the RAC, making waves in the SMR (Service, Maintenance & Repair) domain.
 <!--
 **jackson-lewis/jackson-lewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
