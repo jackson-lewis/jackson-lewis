@@ -1,4 +1,4 @@
-A Frontend Software Engineer at the RAC, making waves in the SMR (Service, Maintenance & Repair) domain.
+A Frontend Software Engineer at the RAC, making waves in the SMR (Service, Maintenance & Repair) world. 🚙
 <!--
 **jackson-lewis/jackson-lewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
